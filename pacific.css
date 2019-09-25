@@ -4,15 +4,18 @@ body {
     font-family: Verdana, Arial, san-serif;
 }
 
+/*
 header {
     background-color: #000033;
     color: #FFFFFF;
     font-family: Georgia, serif;
 }
+*/
 
 h1 {   
     background-color: #000033;
     color: #FFFFFF;
+    font-family: Georgia, serif;
     line-height: 200%;
 }
 
